@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.15" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (userMode === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (userMode === 'dark' || systemDarkMode) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>英文写作</title><meta name="description" content="本网页用于记录英文写作相关的知识">
+    <link rel="preload" href="/assets/style-BqJCvVF0.css" as="style"><link rel="stylesheet" href="/assets/style-BqJCvVF0.css">
+    <link rel="modulepreload" href="/assets/app-5MyH7GWl.js"><link rel="modulepreload" href="/assets/404.html-DVRAl647.js">
+    <link rel="prefetch" href="/assets/index.html-AVJJ2zmn.js" as="script"><link rel="prefetch" href="/assets/grammar.html-r0ctxxEQ.js" as="script"><link rel="prefetch" href="/assets/punc.html-Cv5cw7Ok.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-fad68b7c><main class="page" data-v-fad68b7c><div class="theme-default-content" vp-content data-v-fad68b7c><h1 data-v-fad68b7c>404</h1><blockquote data-v-fad68b7c>How did we get here?</blockquote><a class="route-link" href="/" data-v-fad68b7c>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-5MyH7GWl.js" defer></script>
+  </body>
+</html>
