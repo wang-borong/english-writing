@@ -5,6 +5,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'zh-CN',
 
+  base: '/english-writing/',
+
   title: '英文写作',
   description: '本网页用于记录英文写作相关的知识',
 
