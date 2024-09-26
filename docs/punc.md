@@ -13,7 +13,7 @@
 * [句号](#句号)
 * [逗号](#逗号)
 * [分号](#分号)
-* 撇号
+* [撇号](#撇号)
 * 问号
 * 冒号
 * 连字号
@@ -178,4 +178,42 @@
 1. 在并列对象中已有逗号的情况下，分隔对象宜用分号
 
    > The tour included <u>Miami, Florida; San Juan, Puerto Rico; and Kingston, Jamaica</u>.
+
+## 撇号
+
+1. 表示特殊的复数
+
+   > Please underline the <u>which's</u> and <u>that's</u> in this passage.
+
+   像 which 与 that 这种字，若要表达两个以上，和一般的词不一样，不能直接添加 -s，而是要搭配撇号使用。
+
+   > There are <u>three Ph.D.'s</u> on this team.
+
+   类似 Ph.D. 这种缩写字也需要用特殊复数形式。
+   一般情况下，缩写字要使用特殊复数形式，然而有些情况，即使是缩写字，还是会采用通用的添加 -s 的做法，如：
+
+   > This highway connects <u>Mts. Ali and Jade</u>.
+
+   缩写字 Mt. 代表 Mountain，其复数是 Mts.，不加撇号。
+
+   > The U.S. still has <u>a lot of ICBMs</u> left.
+
+   ICBM 也是缩写字，代表 Intercontinental Ballistic Missile（洲际弹道导弹），其复数原本是 ICBM's，要加撇号，
+   然而近年来由英文新闻带头，为求精简，只要能看得懂就把撇号去掉，所以现在常见的复数写法是 ICBMs。
+   可见语言是工具，要符合大众的习惯。
+
+   > The <u>1960s</u> were quite remarkable years.
+
+   该句同上句，1960 年代的写法原本是 1960's，今年来被改为 1960s。
+
+1. 搭配特殊缩写
+
+   > The boss <u>OK'd</u> (= okeyed) the project.
+
+   > I wouldn't count on his <u>Ok'ing</u> (= okaying) the project.
+
+   如 OK 这种缩写字可以充当动词，然而如果要改为过去式，却不能直接加 -ed，而是要搭配撇号和 -d。
+   改为动名词与现在分词也是要搭配撇号和 -ing。
+   另外，缩写词中有点的情况也用同样变化（O.K.）。
+
 
